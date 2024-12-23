@@ -12,5 +12,7 @@ Basic VNC scanner to find open VNC's on the interwebs using webscraping.
 
 `3. Then check the vncs.txt file and use the IP and Port to connect`
 
+Also run this program from cmd as currently there might be some errors.
+
 # Discord
 Discord: https://discord.gg/6pSR2Rcqeg
